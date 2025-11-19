@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minha Casa Nova - Reviews de Smart Home e Automação</title>
+    <link>https://minhacasanova.lovable.app</link>
+    <description>As melhores análises de produtos inteligentes para sua casa: tomadas WiFi, câmeras IP, sensores e mais. Reviews honestos e detalhados.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://minhacasanova.lovable.app/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Tomada Inteligente Tuya 20A é boa? Review Completo 2025</title>
+      <link>https://minhacasanova.lovable.app/produtos/tomada-inteligente-20a-tuya</link>
+      <description>Descubra se a Tomada Inteligente Wi-Fi 20A Tuya é boa para ar-condicionado e alta potência. Review completo com prós, contras e comparação.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://minhacasanova.lovable.app/produtos/tomada-inteligente-20a-tuya</guid>
+    </item>
+    
+    <item>
+      <title>Câmera IP 5MP Tuya é boa? Análise Completa com Testes Reais</title>
+      <link>https://minhacasanova.lovable.app/produtos/camera-ip-5mp-tuya</link>
+      <description>Review completo da Câmera IP 5MP Tuya com testes de dia e noite, comparação com 3MP e análise de visão noturna.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://minhacasanova.lovable.app/produtos/camera-ip-5mp-tuya</guid>
+    </item>
+    
+    <item>
+      <title>Guia Completo: Melhores Tomadas Inteligentes 2025</title>
+      <link>https://minhacasanova.lovable.app/categoria/tomadas-inteligentes</link>
+      <description>Compare as melhores tomadas inteligentes WiFi: 10A, 16A e 20A. Reviews completos, tabela comparativa e guia de compra.</description>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <guid>https://minhacasanova.lovable.app/categoria/tomadas-inteligentes</guid>
+    </item>
+  </channel>
+</rss>
